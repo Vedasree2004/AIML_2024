@@ -7,3 +7,4 @@
 # ML_ASIGNMENT2 :https://github.com/Vedasree2004/AIML_2024/blob/main/2203A51371_ML2.ipynb
 # ML_ASSIGNMENT3 :https://github.com/Vedasree2004/AIML_2024/blob/main/2203A51371_ml3.ipynb
 # ML_ASSIGNMENT4 :https://github.com/Vedasree2004/AIML_2024/blob/main/2203A51371_ML_4.ipynb
+# ML_ASSIGNMENT5 :https://github.com/Vedasree2004/AIML_2024/blob/main/2203A51371_ml5.ipynb
